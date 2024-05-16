@@ -1,4 +1,4 @@
-# Project Name
+# AutoMuse
 
 Automuse is a simple Flask web application that provides auto-suggestions and auto-corrections for words entered by the user. It utilizes text similarity measures and word frequency analysis to suggest possible corrections for misspelled words.
 ![image](https://github.com/mehulbatra08/automuse/assets/100890785/3fd14200-6216-4c59-b82e-6687bde3909b)
@@ -11,9 +11,8 @@ Web Interface: Built with Flask, the application provides a user-friendly web in
 
 ## Requirements
 
-Python 3.x
-Flask
-Pandas
-Textdistance
-Regular Expressions (re)
-
+- Python 3.x
+- Flask
+- Pandas
+- Textdistance
+- Regular Expressions (re)
